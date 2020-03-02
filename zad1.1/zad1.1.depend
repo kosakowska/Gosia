@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1583148300 source:c:\users\student\desktop\mitp\zad1.1\zad1.1\main.cpp
+	<iostream>
+	"1.1.h"
+
+1583148300 c:\users\student\desktop\mitp\zad1.1\zad1.1\1.1.h
+	<iostream>
+
